@@ -24,7 +24,7 @@ function projects() {
       title: "Portfolio Website",
       description: "Lets not forget this one, my portfolio website.",
       technologies: ["Next.JS", "Tailwind CSS"],
-      link: "",
+      link: "https://github.com/ryadbahi/nextjs-checkpoint-portfolio",
     },
   ];
 
