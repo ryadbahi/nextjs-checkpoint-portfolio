@@ -29,7 +29,7 @@ function projects() {
   ];
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-indigo-600 to-purple-600 text-white px-6 py-12">
+    <div>
       <div className="max-w-6xl mx-auto">
         <h1 className="text-4xl font-bold mb-6 text-center">Projects</h1>
 

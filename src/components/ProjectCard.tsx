@@ -14,7 +14,7 @@ const ProjectCard: React.FC<ProjectCardProps> = ({
   link,
 }) => {
   return (
-    <div className="bg-white rounded-lg shadow-lg overflow-hidden m-4 transform transition duration-500 hover:scale-105 flex flex-col h-full">
+    <div className="bg-white rounded-lg shadow-xl overflow-hidden m-4 transform transition duration-500 hover:scale-105 flex flex-col h-full">
       <div className="p-6 flex flex-col flex-grow">
         <h3 className="text-xl font-bold text-indigo-800 mb-4">{title}</h3>
         <p className="text-gray-700 flex-grow">{description}</p>

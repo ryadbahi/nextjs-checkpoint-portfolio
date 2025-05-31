@@ -7,7 +7,10 @@ const Footer = () => {
         <div className="border-t border-indigo-700 py-8 md:flex md:items-center md:justify-between">
           <div className="flex justify-center space-x-6 md:order-2">
             {/* Social Media Icons */}
-            <Link href="#" className="text-white hover:text-indigo-300">
+            <Link
+              href="https://github.com/ryadbahi"
+              className="text-white hover:text-indigo-300"
+            >
               <span className="sr-only">GitHub</span>
               <svg
                 className="h-10 w-10"
@@ -22,7 +25,10 @@ const Footer = () => {
                 />
               </svg>
             </Link>
-            <Link href="#" className="text-white hover:text-indigo-300">
+            <Link
+              href="https://www.linkedin.com/in/ryad-bahi-b0418a150/"
+              className="text-white hover:text-indigo-300"
+            >
               <span className="sr-only">LinkedIn</span>
               <svg
                 className="h-6 w-6"
